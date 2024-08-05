@@ -11,7 +11,7 @@ Core Chain is the first Bitcoin-aligned EVM-compatible Layer-1 blockchain, desig
 
 ![core-header](../static/img/core-header.png)
 
-New to Core Chain? Let's discover **Core Chain in less than 5 minutes**.
+New to Core Chain? 让我们在不到5分钟内发现**核心链**。
 
 ## 📔 Learn about Core Chain
 
