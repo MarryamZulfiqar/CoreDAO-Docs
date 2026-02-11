@@ -55,7 +55,7 @@ If your staking period has expired, redeem your staked Bitcoin assets from eithe
 ## Claim CORE token rewards earned from Bitcoin Staking delegation
 
 :::note
-To be eligible to earn rewards, it is required to complete a full staking round (00:00:00 - 23:59:29 UTC).
+To be eligible to earn rewards, it is required to complete a full staking round (00:00:00 - 23:59:59 UTC).
 :::
 
 1\. From any CORE screen, hover over your connected wallet in the top right corner, click ‘**My Staking**’.

@@ -16,11 +16,11 @@ Before you begin, ensure your Ledger device is updated and the Core Testnet app 
 ## Before You Begin: Important Reminders
 To ensure a secure and seamless experience, please note the following key requirements:
 
-1.  Use Only Supported Ledger Devices: BTC staking, redemption, and redelegation on Core Testnet are supported only on specific supported Ledger hardware wallets with the latest firmware. Always update your device via Ledger Live before use.
+1.  **Use Only Supported Ledger Devices:** BTC staking, redemption, and redelegation on Core Testnet are supported only on specific supported Ledger hardware wallets with the latest firmware. Always update your device via Ledger Live before use.
     
-2.  Always Use the Ledger’s CoreDAO App: You must use the Ledger Core Testnet app (not the Ledger Bitcoin app) for both staking, redeeming, or redelegating BTC on Core Testnet. The Bitcoin app does not support redemption operations of staked BTC and may prevent successful redemption.
+2.  **Always Use the Ledger’s Core's Testnet App:** You must use the Ledger Core Testnet app (not the Ledger Bitcoin app) for both staking, redeeming, or redelegating BTC on Core Testnet. The Bitcoin app does not support redemption operations of staked BTC and may prevent successful redemption.
     
-3.  Staking BTC Only from the Primary BTC Wallet Address: Currently, BTC staking, redemption, and redelegation on Core Testnet through Ledger are supported only from the primary BTC address of the Ledger device. Secondary or derived addresses are not compatible.
+3.  **Staking BTC Only from the Primary BTC Wallet Address:** Currently, BTC staking, redemption, and redelegation on Core Testnet through Ledger are supported only from the primary BTC address of the Ledger device. Secondary or derived addresses are not compatible.
     
 ## Supported Ledger Hardware Wallets
 

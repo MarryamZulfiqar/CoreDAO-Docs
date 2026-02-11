@@ -154,7 +154,7 @@ Let’s break down the flags used in this command:
 
 - **`cache 8000`:** Allocates a large cache (8GB in this case) to improve performance.
 
-- **`networkid`:** Specify the Core network chain ID you intend to run the validator node (e.g., 1114 for Core Tesnet2)
+- **`networkid`:** Specify the Core network chain ID you intend to run the validator node (e.g., 1114 for Core Testnet2)
 
 
 #### Syncing from Genesis
