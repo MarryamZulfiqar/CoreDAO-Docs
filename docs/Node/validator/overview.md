@@ -38,8 +38,10 @@ Commission fees are paid directly to each validator’s designated fee address a
 > **Note:** Rewards are settled **per round**, not per block. Each round corresponds to a full validator election cycle (~24 hours, UTC+0).
 
 <p align="center">
-![validator-reward-distribution](../../../static/img/validator/Rewards-In-Core-Ecosystem.png)
+![validator-reward-distribution](../../../static/img/staoshi-plus/Rewards-In-Core-Ecosystem.png)
 </p>
+
+
 
 ### Sample Reward Calculation
 Let us assume that the base reward for a round is **3000 CORE** and that a particular validator sets its commission rate to **20%**. These tokens do not go directly to the proposer. Instead, they are shared among validators and delegators. These **3000 CORE** will be distributed according to each participant's stake. Assume that the fees generated from all transactions in all the blocks in a round were **100 CORE**.

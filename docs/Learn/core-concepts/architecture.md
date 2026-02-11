@@ -19,7 +19,7 @@ Through Satoshi Plus, **Bitcoin miners/mining pools, Bitcoin stakers, and CORE t
 
 ## Satoshi Plus Consensus: Major Components 
 
-<p align="center">
+<p align="center" style={{zoom:"120%"}}>
 ![component-diagram](../../../static/img/Core-Architecture.png)
 </p>
 

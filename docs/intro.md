@@ -9,7 +9,9 @@ sidebar_position: 1
 
 The Core blockchain is a high-performance, EVM-compatible Layer-1 blockchain, designed to be Bitcoin's complementary and hyper-scalable smart contract platform. By leveraging Bitcoin-native CLTV timelocks, Bitcoin mining hash power, and modern smart contract capabilities, Core unlocks Bitcoin as both the prime protector and central asset of a thriving decentralized application ecosystem. As the only end-to-end platform supporting both Bitcoin Staking and EVM-compatible smart contracts, Core serves as Bitcoin's first Proof of Stake layer.
 
+<p align="center"  style={{zoom:"120%"}}>
 ![core-header](../static/img/core-header.png)
+</p>
 
 ## Learn
 

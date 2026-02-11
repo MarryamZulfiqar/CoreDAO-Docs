@@ -18,7 +18,7 @@ DPoW forms a **symbiotic relationship** between the Bitcoin and Core networks:
 - Bitcoin miners gain a second block reward through CORE token rewards
 - Core benefits from Bitcoin's unmatched security and decentralized infrastructure
 
-<p align="center">
+<p align="center"  style={{zoom:"100%"}}>
 ![dpow-core-architechture](../../../../static/img/staoshi-plus/DPoW.png)
 </p>
 
