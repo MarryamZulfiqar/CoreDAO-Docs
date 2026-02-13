@@ -98,7 +98,7 @@ After the timelock period for BTC has expired, users are eligible to redeem or r
 ![install-coredao-app-on-ledger](../../../../../static/img/ledger-core/mainnet/btc-redemption/UI-5.png)
 </p>
 
-### Step#5: Connect Ledger Device for Redemption of Staked BTC
+### Step#6: Connect Ledger Device for Redemption of Staked BTC
 
 #### Option #1: Connecting the Ledger Device Directly to the Staking Website
 

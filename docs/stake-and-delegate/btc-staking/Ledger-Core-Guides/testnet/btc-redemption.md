@@ -53,7 +53,7 @@ Before you begin, make sure you have:
 
 After the timelock period for BTC has expired, users are eligible to redeem or redelegate their delegated Bitcoin assets. You must use the same Ledger wallet address used for staking BTC to redeem your BTC after the timelock expiry.
 
-### Step #1: Connect Core Wallet to the Staking Website
+### Step#1: Connect Core Wallet to the Staking Website
 
 1.  Navigate to the [Core Testnet Staking Website](https://stake.test2.btcs.network/staking).
     
@@ -67,7 +67,7 @@ After the timelock period for BTC has expired, users are eligible to redeem or r
 
 4.  From the displayed wallet modal, select the wallet of your choice configured for use with Core Testnet.
 
-### Step #2: Navigate to Testnet Staking Dashboard
+### Step#2: Navigate to Testnet Staking Dashboard
 
 1.  Ensure your Ledger device is installed with the latest or supporting firmware and connected to your computer with Ledger’s primary Bitcoin (BTC) address.
     
@@ -77,7 +77,7 @@ After the timelock period for BTC has expired, users are eligible to redeem or r
 ![my-staking](../../../../../static/img/ledger-core/testnet/btc-redeem/UI-1.png)
 </p>
 
-### Step #3: Navigate to Testnet BTC Staking Records
+### Step#3: Navigate to Testnet BTC Staking Records
 
 1.  On the "**My Staking Dashboard**" page, select "**BTC**" records from the displayed tabs.
     
@@ -91,7 +91,7 @@ After the timelock period for BTC has expired, users are eligible to redeem or r
 ![my-staking-records](../../../../../static/img/ledger-core/testnet/btc-redeem/my-staking-1.png)
 </p>
 
-### Step #4: Verify BTC Staking and Redemption Details
+### Step#4: Verify BTC Staking and Redemption Details
 
 1.  On the displayed "**Redeem BTC**" modal, cross-check the **BTC staking address**, the **BTC Amount** that will be redeemed, and the **Receiving Bitcoin address**. To redeem the BTC, you **_must_** connect to the same Bitcoin address as the one initiating the Bitcoin staking transaction.
     
@@ -103,7 +103,7 @@ After the timelock period for BTC has expired, users are eligible to redeem or r
 ![verify-tx-details](../../../../../static/img/ledger-core/testnet/btc-redeem/UI-12.png)
 </p>
 
-### Step #5: Sign the BTC Unlock Transaction on Ledger Device
+### Step#5: Sign the BTC Unlock Transaction on Ledger Device
 
 1.  Click "**Sign By Bitcoin Wallet**" to sign the BTC redemption transaction from your Ledger device.
     
@@ -111,7 +111,7 @@ After the timelock period for BTC has expired, users are eligible to redeem or r
 ![sign-tx](../../../../../static/img/ledger-core/testnet/btc-redeem/UI-13.png)
 </p>
 
-### Step#5: Connect Ledger Device for Redemption of Staked BTC
+### Step#6: Connect Ledger Device for Redemption of Staked BTC
 
 #### Option #1: Connecting the Ledger Device Directly to the Staking Website
 
@@ -137,7 +137,7 @@ Alternatively, you can use Xverse Wallet to redeem BTC directly from your Ledger
 ![connect-xverse-wallet](../../../../../static/img/ledger-core/testnet/btc-redeem/UI-8.png)
 </p>
 
-### Step#6: Review & Approve Transaction on Ledger Device
+### Step#7: Review & Approve Transaction on Ledger Device
 
 1. After connecting your Ledger device, ensure that the device is unlocked and the Ledger Core Testnet app is open. You will be prompted on the screen to approve the transaction.
 
