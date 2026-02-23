@@ -146,8 +146,8 @@ This dynamic fosters active delegation decisions and validator competition.
 
 ## Conclusion
 
-<p align="center">
-![rewards](../../../../static/img/validator/Rewards-In-Core-Ecosystem.png)
+<p align="center"  style={{zoom:"120%"}}>
+![validator-reward-distribution](../../../../static/img/staoshi-plus/Rewards-In-Core-Ecosystem.png)
 </p>
 
 Core's reward system properly incentivizes and aligns **miners, stakers, validators, and infrastructure roles**. Through a transparent and configurable system, rewards drive security, decentralization, and sustained community participation across Satoshi Plus consensus.

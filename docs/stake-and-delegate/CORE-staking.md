@@ -143,7 +143,7 @@ If you wish to undelegate your CORE, click the three dots at the end of your cho
 
 ## Claiming Rewards
 
-You can view reward information about your active delegations by selecting **My Staking** in the top right corner in the header of the staking website. Delegation (staking) rewards are distributed at the end of each round at 00:00 UTC every day. To be eligible to earn rewards, it is required to complete a full staking round (00:00:00 - 23:59:29 UTC).
+You can view reward information about your active delegations by selecting **My Staking** in the top right corner in the header of the staking website. Delegation (staking) rewards are distributed at the end of each round at 00:00 UTC every day. To be eligible to earn rewards, it is required to complete a full staking round (00:00:00 - 23:59:59 UTC).
 
 To claim your rewards, simply select the **Claim** button on the top left and sign the transaction. After sending the transaction, you will receive the rewards to your linked address. Historical claim transactions are listed on the website's **Claim** tab, as shown below.
 

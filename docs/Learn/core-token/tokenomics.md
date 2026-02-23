@@ -14,7 +14,9 @@ CORE has a **fixed supply of 2.1 billion tokens**, mirroring Bitcoin's scarcity 
 
 ## Token Distribution
 
+<p align="center"  style={{zoom:"80%"}}>
 ![tokenomics](../../../static/img/tokenomics/CORE_Tokenomics.png)
+</p>
 
 1. **Node Mining (39.995% - 839,900,000 CORE):** Validator rewards distributed over 81 years
 2. **Users (25.029% - 525,600,000 CORE):** Community allocation at mainnet's genesis
@@ -31,15 +33,21 @@ CORE has a **fixed supply of 2.1 billion tokens**, mirroring Bitcoin's scarcity 
 
 ### Cumulative CORE Emissions Monthly (First 6 Years)
 
+<p align="center">
 ![6-years-emissions](../../../static/img/tokenomics/Cumulative_CORE_Emissions_Monthly.png)
+</p>
 
 ### Cumulative CORE Emissions Yearly (81 Years)
 
+<p align="center">
 ![81-years-emissions](../../../static/img/tokenomics/Cumulative_CORE_Emissions_Yearly.png)
+</p>
 
 ### Breakdown of Allocations
 
+<p align="center">
 ![break-down-of-emissions](../../../static/img/tokenomics/Breakdown_of_Allocations.png)
+</p>
 
 ## Deflationary Mechanisms
 

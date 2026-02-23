@@ -12,7 +12,7 @@ This user guide is designed to walk you through staking your Bitcoin on the Core
 
 To be able to stake, you must have the following prerequisites:
 
-1. **Supported Bitcoin Wallet Browser Extension:** To participate in the BTC staking process, you must install browser extensions of any supported Bitcoin wallets, like [Xverse](https://chromewebstore.google.com/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg?hl=en-GB&authuser=1), [Unisat](https://chromewebstore.google.com/detail/unisat-wallet/ppbibelpcjmhbdihakflkdcoccbgbkpo), and/or [OKX Wallet](https://chromewebstore.google.com/detail/okx-wallet/mcohilncbfahbmgdjkbpemcciiolgcge). Visit https://stake.coredao.org for the latest supported wallets. You must use a desktop version, as mobile and hardware wallets are not currently supported. You can also stake directly using the [Element Wallet](https://www.elementwallet.com/) mobile application as well.
+1. **Supported Bitcoin Wallet Browser Extension:** To participate in the BTC staking process, you must install browser extensions of any supported Bitcoin wallets, like [Xverse](https://chromewebstore.google.com/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg?hl=en-GB&authuser=1), [Unisat](https://chromewebstore.google.com/detail/unisat-wallet/ppbibelpcjmhbdihakflkdcoccbgbkpo), and/or [OKX Wallet](https://chromewebstore.google.com/detail/okx-wallet/mcohilncbfahbmgdjkbpemcciiolgcge). Visit https://stake.coredao.org for the latest supported wallets. You must use a desktop version, as mobile and hardware wallets (other than limited versions of Ledger hardware wallets) are not currently supported. You can also stake directly using the [Element Wallet](https://www.elementwallet.com/) mobile application as well.
 2. **Core Wallet Address for Rewards:** Prepare your Core wallet address to receive CORE token rewards for staking Bitcoin. If you do not have a Core wallet address, you can quickly create one by connecting to MetaMask. For more information on configuring MetaMask to work with the Core network, follow the detailed guide [here](../../Dev-Guide/core-wallet-config.md).
 
 ## **Key Considerations For BTC Staking**
@@ -25,7 +25,7 @@ The following are some key points that users should be careful about when stakin
    - The staking address in your Bitcoin wallet's transaction prompt may differ from your original Bitcoin address. This is because the Bitcoin staking address is derived from your Bitcoin wallet's master private key, ensuring control and security over your assets. Your Bitcoin remains safe in the Bitcoin staking address, unaffected by staking.
 4. **Delays in Locked Assets to Appear in your Bitcoin Wallet:**
    - You may face some delays before your locked Bitcoin is displayed in your Bitcoin wallets. This delay primarily results from delays in transaction confirmation on the Bitcoin network, which can take several hours due to block time, the number of block confirmations required, and network congestion.
-   - While we are actively working with wallet partners to support the timely display of your assets in your wallets, you can check your locked assets on the ”MyStaking” page the Core staking website.
+   - While we are actively working with wallet partners to support the timely display of your assets in your wallets, you can check your locked assets on the "**My Staking**" page of the Core official staking website.
    - You can also view your staked funds by searching the staking address on a Bitcoin explorer, [Mempool.space](https://mempool.space/).
 5. **Considerations for Locking Periods**
    - Once you lock your Bitcoin for staking, it's inaccessible until the staking period concludes. Considering your investment objectives and risk tolerance, you are advised to select your locking period thoughtfully. Starting with shorter locking periods can help you become familiar with the process before committing to longer durations.
@@ -55,7 +55,7 @@ Self-custodial Bitcoin staking introduces a secure and decentralized method for 
    3. Include the Core wallet address for rewards.
 3. **Vote for Validators:** By including the address of the Core Validators in your transaction, you can delegate your staked Bitcoin to the chosen validator on the Core blockchain.
 4. **Connect a Core wallet for rewards:** In the return field, verify your Core wallet address; you'll receive CORE token rewards at this address.
-5. **Claiming Rewards:** Accrued CORE token rewards will also appear on the [staking site](http://stake.coredao.org/). CORE token rewards will appear when users connect their wallets, and can be claimed daily. Also, to be eligible to earn rewards, it is required to complete a full staking round (00:00:00 - 23:59:29 UTC).
+5. **Claiming Rewards:** Accrued CORE token rewards will also appear on the [staking site](http://stake.coredao.org/). CORE token rewards will appear when users connect their wallets, and can be claimed daily. Also, to be eligible to earn rewards, it is required to complete a full staking round (00:00:00 - 23:59:59 UTC).
 6. **Redeem Bitcoin:** Once the staking lock time expires, the staked Bitcoin will remain idle in the staking address until redeemed by the user.
 
 ## Self-Custodial Bitcoin Staking Walkthrough

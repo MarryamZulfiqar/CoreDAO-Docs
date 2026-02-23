@@ -210,7 +210,7 @@ Alternatively, users can also use Xverse to stake Bitcoin from their Ledger devi
 
 3. Click on "**View on BTC Explorer**" to view details of your BTC staking transaction on the BTC Explorer.
 
-> ⚠️ **Note:** To be eligible to earn rewards, you must complete a full staking round (00:00:00 - 23:59:29 UTC).
+> ⚠️ **Note:** To be eligible to earn rewards, you must complete a full staking round (00:00:00 - 23:59:59 UTC).
 
 ## FAQs
 Have more questions? Check out the [FAQs](../../../../FAQs/ledger-core-faqs.md) section for answers to common issues, troubleshooting, and best practices.
